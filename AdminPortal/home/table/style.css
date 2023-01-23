@@ -1,0 +1,26 @@
+body
+{
+    margin: 20  px;
+
+}
+
+table 
+{
+    margin: 20px;
+    
+    border: 2px solid black;
+}
+table ,tr ,td
+{
+
+    padding: 5px;
+}
+.fetch
+{
+background-color: greenyellow;
+}
+.delete
+{
+    background-color: red;
+}
+
